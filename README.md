@@ -1,8 +1,28 @@
-# React + Vite
+Nagendra Singh - Portfolio
+🚀 Live Demo: nagendraportfolio247.netlify.app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📌 About the Project
+This is my personal portfolio website, showcasing my skills, projects, and experiences as a MERN stack developer. Built using React.js, this website highlights my expertise in building scalable and dynamic web applications.
 
-Currently, two official plugins are available:
+🔥 Features
+✅ Fully responsive design
+✅ Modern UI with smooth animations
+✅ Showcases my projects and skills
+✅ Contact form for easy communication
+✅ Deployed on Netlify
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Tech Stack
+Frontend: React.js, Tailwind CSS, GSAP
+
+Deployment: Netlify
+
+📂 Project Structure
+/src
+  ├── components  // Reusable UI components
+  ├── assets      // Images and icons
+  ├── pages       // Main website pages
+  ├── App.js      // Main application entry
+  ├── index.js    // React DOM render file
+
+  
+
