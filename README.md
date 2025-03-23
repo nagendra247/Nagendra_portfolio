@@ -1,28 +1,19 @@
-Nagendra Singh - Portfolio
-🚀 Live Demo: nagendraportfolio247.netlify.app
+# 🌟 Nagendra Singh - Portfolio
 
-📌 About the Project
-This is my personal portfolio website, showcasing my skills, projects, and experiences as a MERN stack developer. Built using React.js, this website highlights my expertise in building scalable and dynamic web applications.
+🚀 **Live Site:** [nagendraportfolio247.netlify.app](https://nagendraportfolio247.netlify.app/)
 
-🔥 Features
-✅ Fully responsive design
-✅ Modern UI with smooth animations
-✅ Showcases my projects and skills
-✅ Contact form for easy communication
-✅ Deployed on Netlify
+## 📌 About the Project  
+This is my **personal portfolio website**, designed to showcase my skills, projects, and experience as a **React.js & MERN Stack Developer**. It features a modern UI, animations, and a fully responsive design.
 
-🛠️ Tech Stack
-Frontend: React.js, Tailwind CSS, GSAP
+## ✨ Features  
+✅ Fully responsive and mobile-friendly  
+✅ Modern UI with smooth animations (GSAP)  
+✅ Projects showcase with live previews  
+✅ Contact form for easy communication  
+✅ Fast and optimized for performance  
 
-Deployment: Netlify
+## 🛠 Tech Stack  
+- **Frontend:** React.js, Tailwind CSS, GSAP  
+- **Deployment:** Netlify  
 
-📂 Project Structure
-/src
-  ├── components  // Reusable UI components
-  ├── assets      // Images and icons
-  ├── pages       // Main website pages
-  ├── App.js      // Main application entry
-  ├── index.js    // React DOM render file
-
-  
-
+ 
