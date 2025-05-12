@@ -1,9 +1,11 @@
-{
+{ "homepage": "https://nagendra247.github.io/Nagendra_portfolio",
   "name": "vite-react-starter",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",

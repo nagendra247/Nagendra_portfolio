@@ -3,7 +3,7 @@ function Projects() {
     {
       title: 'React NV',
       description: 'Created a web platform for developers to practice coding questions, featuring a question library, code editor, and solution tracker.Built using React.js with responsive design and integrated APIs for dynamic content and progress tracking.',
-      // image: 'https://via.placeholder.com/300',
+      image: '/proff.png',
       technologies: ['React.js', 'Javascript', 'HTML','CSS','Tailwind CSS'],
       link: 'https://react-nv.netlify.app/'
     },
@@ -20,7 +20,15 @@ function Projects() {
       image: 'https://via.placeholder.com/300',
       technologies: ['React.js', 'Javascript', 'HTML','CSS','Tailwind CSS'],
       link: 'https://36studiosreplica.netlify.app/'
+    },
+    {
+      title: 'Ai Code Review',
+      description: 'Developed a full-stack web application that enables users to upload source code files for AI-powered code reviews using the Google Gemini API. The application intelligently analyzes the submitted code, identifies potential issues, and generates actionable feedback and improvement suggestions in real-time.',
+      // image: 'https://via.placeholder.com/300',
+      technologies: ['React.js', 'Javascript', 'HTML','CSS','Node.js','Express.js'],
+      link: 'https://github.com/nagendra247/ai-code-review'
     }
+    
   ];
 
   return (
@@ -29,7 +37,7 @@ function Projects() {
       <div className="projects-grid">
         {projects.map((project, index) => (
           <div key={index} className="project-card">
-            {/* <img src={project.image} alt={project.title} /> */}
+             {/* <img src={project.image} alt={project.title} />  */}
             <h3>{project.title}</h3>
             <p>{project.description}</p>
             <div className="technologies">
